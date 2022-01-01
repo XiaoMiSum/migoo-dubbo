@@ -5,6 +5,6 @@
 
 此项目为 [MiGoo](https://github.com/XiaoMiSum/migoo/) 的Dubbo扩展项目，用于支持发送Dubbo请求
 
-test目录下提供了一个Dubbo官方demo，修改 DubboApplication中的zk地址后启动服务，然后运行 
+test目录下提供了一个Dubbo官方demo，修改 DubboApplication中的zk地址后启动服务，然后运行
 
-kafka取样器配置参数见：test/resouecrs/example/kafka_sampler.yml 中的 bootstrap.servers为实际地址
+dubbo取样器配置参数见：test/resouecrs/example/standardsampler_dubbo.yaml
